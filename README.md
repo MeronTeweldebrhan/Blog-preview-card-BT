@@ -5,7 +5,8 @@ This is a solution to the Frontend Mentor Blog Preview Card challenge.
 The goal was to build a responsive and visually appealing card using HTML and CSS to reinforce foundational layout and design principles.
 
 
-<img src="../assets/images/Blog.png" alt="Blog perview Card Screenshot">
+![Blog Preview Card Screenshot](assets/images/Blog.png)
+
 
 # 🔗 Links
 * Live Site: View Live Demo <!-- Replace with your GitHub Pages, Netlify, or Vercel link -->
