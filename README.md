@@ -10,7 +10,7 @@ The goal was to build a responsive and visually appealing card using HTML and CS
 
 # 🔗 Links
 * Live Site:[ View Live Demo <!-- Replace with your GitHub Pages, Netlify, or Vercel link -->](https://blogperviewcard.netlify.app/)
-* Solution: Frontend Mentor Solution Page
+* Solution: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/blog-preview-card---using-html-and-css-BbRQHgoBrQ)
 
 # ⚙️ My Process
 1. Set up the HTML structure using semantic tags.
