@@ -9,7 +9,7 @@ The goal was to build a responsive and visually appealing card using HTML and CS
 
 
 # 🔗 Links
-* Live Site: View Live Demo <!-- Replace with your GitHub Pages, Netlify, or Vercel link -->
+* Live Site:[ View Live Demo <!-- Replace with your GitHub Pages, Netlify, or Vercel link -->](https://blogperviewcard.netlify.app/)
 * Solution: Frontend Mentor Solution Page
 
 # ⚙️ My Process
